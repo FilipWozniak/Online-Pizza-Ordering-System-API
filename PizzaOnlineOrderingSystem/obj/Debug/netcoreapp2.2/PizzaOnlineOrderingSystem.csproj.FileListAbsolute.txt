@@ -1,0 +1,16 @@
+C:\Users\Filip\Desktop\PizzaOnlineOrderingSystem\PizzaOnlineOrderingSystem\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\Filip\Desktop\PizzaOnlineOrderingSystem\PizzaOnlineOrderingSystem\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Filip\Desktop\PizzaOnlineOrderingSystem\PizzaOnlineOrderingSystem\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\Filip\Desktop\PizzaOnlineOrderingSystem\PizzaOnlineOrderingSystem\bin\Debug\netcoreapp2.2\PizzaOnlineOrderingSystem.deps.json
+C:\Users\Filip\Desktop\PizzaOnlineOrderingSystem\PizzaOnlineOrderingSystem\bin\Debug\netcoreapp2.2\PizzaOnlineOrderingSystem.runtimeconfig.json
+C:\Users\Filip\Desktop\PizzaOnlineOrderingSystem\PizzaOnlineOrderingSystem\bin\Debug\netcoreapp2.2\PizzaOnlineOrderingSystem.runtimeconfig.dev.json
+C:\Users\Filip\Desktop\PizzaOnlineOrderingSystem\PizzaOnlineOrderingSystem\bin\Debug\netcoreapp2.2\PizzaOnlineOrderingSystem.dll
+C:\Users\Filip\Desktop\PizzaOnlineOrderingSystem\PizzaOnlineOrderingSystem\obj\Debug\netcoreapp2.2\PizzaOnlineOrderingSystem.csprojAssemblyReference.cache
+C:\Users\Filip\Desktop\PizzaOnlineOrderingSystem\PizzaOnlineOrderingSystem\obj\Debug\netcoreapp2.2\PizzaOnlineOrderingSystem.RazorAssemblyInfo.cache
+C:\Users\Filip\Desktop\PizzaOnlineOrderingSystem\PizzaOnlineOrderingSystem\obj\Debug\netcoreapp2.2\PizzaOnlineOrderingSystem.RazorAssemblyInfo.cs
+C:\Users\Filip\Desktop\PizzaOnlineOrderingSystem\PizzaOnlineOrderingSystem\obj\Debug\netcoreapp2.2\PizzaOnlineOrderingSystem.AssemblyInfoInputs.cache
+C:\Users\Filip\Desktop\PizzaOnlineOrderingSystem\PizzaOnlineOrderingSystem\obj\Debug\netcoreapp2.2\PizzaOnlineOrderingSystem.AssemblyInfo.cs
+C:\Users\Filip\Desktop\PizzaOnlineOrderingSystem\PizzaOnlineOrderingSystem\obj\Debug\netcoreapp2.2\PizzaOnlineOrderingSystem.RazorTargetAssemblyInfo.cache
+C:\Users\Filip\Desktop\PizzaOnlineOrderingSystem\PizzaOnlineOrderingSystem\bin\Debug\netcoreapp2.2\PizzaOnlineOrderingSystem.pdb
+C:\Users\Filip\Desktop\PizzaOnlineOrderingSystem\PizzaOnlineOrderingSystem\obj\Debug\netcoreapp2.2\PizzaOnlineOrderingSystem.dll
+C:\Users\Filip\Desktop\PizzaOnlineOrderingSystem\PizzaOnlineOrderingSystem\obj\Debug\netcoreapp2.2\PizzaOnlineOrderingSystem.pdb
